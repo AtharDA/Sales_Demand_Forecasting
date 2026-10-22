@@ -144,6 +144,16 @@ These results are a baseline comparison, not evidence of a highly accurate forec
 - scikit-learn
 - Jupyter Notebook
 
+## Dataset
+
+This project uses the Store Sales - Time Series Forecasting
+dataset from Kaggle.
+
+Download the dataset here:
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
+
+After downloading, place `train.csv` and `stores.csv` inside `data/raw/`.
+
 ## Author
 
 **Mohammed Athar Ansari**
